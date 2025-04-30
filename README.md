@@ -49,6 +49,8 @@ To manually install any missing package (if needed):
 
 This project uses the NYC Taxi Fare Prediction dataset from Kaggle.
 
+https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction/data
+
 Place train.csv and test.csv into the Colab file system using the upload tool, or connect to Google Drive.
 
 ## 🧠 Assumptions & Notes
