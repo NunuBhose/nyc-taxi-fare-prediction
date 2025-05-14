@@ -31,7 +31,6 @@ You can run this project entirely in the browser using Google Colab:
 4. The link to the dataset is given in the README, also under data folder in git.
 5. Upload the dataset zip file to the respective directory in Google Drive.
 6. Make sure to not skip running any cell in the notebook.
->>>>>>> c1b84570ec9671a62402041ca1ec34e81dc57696
 
 ---
 
@@ -73,8 +72,3 @@ This project is open-sourced under the MIT License.
 
 Bhaskar Kuruvangattil Rejis
 Texas State University – Computer Science
-<<<<<<< HEAD
-
- 
-=======
->>>>>>> c1b84570ec9671a62402041ca1ec34e81dc57696
